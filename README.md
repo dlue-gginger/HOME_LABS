@@ -8,6 +8,10 @@ These labs not only showcase my technical capabilities but also serve as practic
 
 ## Labs Overview
 
+### SOC envirment
+
+Created a practical SOC lab combining pfSense, Wazuh, and IDS/IPS tooling to learn log aggregation, threat detection, alert tuning, and basic incident response processes; documented findings and procedures.
+
 ### DHCP
 
 This lab covers the setup of a DHCP server to automatically assign IP addresses and essential network configuration to clients. It includes step-by-step instructions for configuring ranges, reservations, and network settings to ensure consistent client configuration.
